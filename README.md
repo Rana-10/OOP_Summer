@@ -1,3 +1,3 @@
 # OOP_Summer
 
-Solved Assignments of OOP course, Summer semester.
+Solved Assignments + Project of OOP course, Summer semester.
